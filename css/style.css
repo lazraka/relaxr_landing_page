@@ -1,5 +1,41 @@
-.logo{
+body{
 	font-family: Open Sans;
+}
+.logo{
 	font-weight:800;
 	font-size:48px;
 }
+h2{
+	font-weight:600;
+	font-size:48px;
+	text-align: center;
+}
+.link{
+	font-weight:800;
+	font-size:28px;
+	border: solid 5px yellow;
+}
+h3{
+	font-weight:600;
+	font-size:40px;
+}
+.description{
+	font-weight:200;
+	font-size:26px;
+}
+blockquote{
+	font-weight:200;
+	font-size:36px;
+	font-style: italic;
+	text-align: center;
+}
+strong{
+	font-weight:600;
+	font-size:36px;	
+	text-align: center;
+}
+.end{
+	text-align:center;
+}
+
+	
