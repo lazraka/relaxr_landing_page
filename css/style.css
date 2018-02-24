@@ -18,12 +18,12 @@ h2{
 	font-weight:800;
 	font-size:48px;
 }
+.link.top{
+}
 .link{
 	font-weight:800;
 	font-size:28px;
 	background-color:yellow;
-}
-a{
 	border:solid black 5px;
 	margin-left: 405px;
 	margin-top: 272px;
@@ -31,17 +31,20 @@ a{
 h3{
 	font-weight:600;
 	font-size:40px;
+	margin-bottom: 40px;
 }
 .sec-two{
 	width:1085px;
 	height:500px;
 	padding-left: 115px;
 	padding-top:100px;
+	background-color: #f8f8f8;
 }
 .description{
 	font-weight:200;
 	font-size:26px;
 	width:610px;
+	color:#696969;
 }
 ul{
 	list-style: disc outside;
@@ -50,12 +53,14 @@ li{
 	margin-left:40px;
 	width:450px;
 	font-size: 26px;
-	/*padding-left:100px;*/
+}
+p{
+	margin-bottom:70px;
 }
 .sec-three{
 	background-image: url("../images/testimonial_bg.jpg");
-	width:1120px;
-	height:400px;
+	width:1200px;
+	height:320px;
 	padding-top:80px;
 }
 blockquote{
@@ -64,13 +69,11 @@ blockquote{
 	font-style: italic;
 	text-align: center;
 	width:60%;
-	margin:30%;
 }
 span{
 	font-weight:600;
 	font-size:36px;	
 	text-align: center;
-	margin:30%;
 }
 .end{
 	text-align:center;
@@ -85,6 +88,13 @@ span{
 .sec-four{
 	width:1200px;
 	height:120px;
+	background-color: yellow;
+}
+.link-bottom{
+	border:solid black 5px;
+	margin-left: 445px;
+	margin-top: 30px;
+	background: blue;
 }
 .sec-five{
 	background-color: black;
