@@ -1,6 +1,11 @@
 body{
 	font-family: Open Sans;
 }
+.sec-one{
+	background-image: url("../images/header_bg.jpg");
+	width:800px;
+	height:500px;
+}
 .logo{
 	font-weight:800;
 	font-size:48px;
@@ -13,7 +18,12 @@ h2{
 .link{
 	font-weight:800;
 	font-size:28px;
-	border: solid 5px yellow;
+	background-color:yellow;
+	margin:30%;
+}
+.sec-two{
+	width:800px;
+	height:400px;
 }
 h3{
 	font-weight:600;
@@ -22,14 +32,27 @@ h3{
 .description{
 	font-weight:200;
 	font-size:26px;
+	margin-left: 40px;
+	width:600px;
+}
+.bullets{
+	margin-left:70px;
+	width:600px;
+}
+.sec-three{
+	background-image: url("../images/testimonial_bg.jpg");
+	width:800px;
+	height:300px;
 }
 blockquote{
 	font-weight:200;
 	font-size:36px;
 	font-style: italic;
 	text-align: center;
+	width:40%;
+	margin:20%;
 }
-strong{
+span{
 	font-weight:600;
 	font-size:36px;	
 	text-align: center;
@@ -38,4 +61,24 @@ strong{
 	text-align:center;
 }
 
-	
+ul{
+	list-style: disc outside;
+}
+span{
+	margin:45%;
+}
+.white{
+	color:white;
+}
+.sec-four{
+	width:800px;
+	height:100px;
+}
+.sec-five{
+	background-color: black;
+	width:800px;
+	height:300px;
+}
+.bottom{
+	color:yellow;
+}
