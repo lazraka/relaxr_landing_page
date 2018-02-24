@@ -3,15 +3,16 @@ body{
 }
 .sec-one{
 	background-image: url("../images/header_bg.jpg");
-	width:760px;
-	height:500px;
-	padding-left:40px;
-	padding-top: 3px;
+	width:1080px;
+	height:660px;
+	padding-left:120px;
+	padding-top: 40px;
 }
 h2{
 	font-weight:600;
 	font-size:48px;
-	text-align: center;
+	margin-left: 90px;
+	margin-top: 112px;
 }
 .logo{
 	font-weight:800;
@@ -21,37 +22,35 @@ h2{
 	font-weight:800;
 	font-size:28px;
 	background-color:yellow;
-	height:7%;
 }
 a{
 	border:solid black 5px;
-	display:block;
-	width:30%;
-	text-align: center;
-	padding:3px;
-}
-.sec-two{
-	width:800px;
-	height:400px;
+	margin-left: 405px;
+	margin-top:272px;
 }
 h3{
 	font-weight:600;
 	font-size:40px;
 }
+.sec-two{
+	width:1200px;
+	height:600px;
+	margin-left: 40px;
+}
 .description{
 	font-weight:200;
 	font-size:26px;
-	margin-left: 40px;
-	width:600px;
+	width:500px;
 }
 .bullets{
-	margin-left:70px;
-	width:600px;
+	margin-left:40px;
+	width:450px;
+	font-size: 26px;
 }
 .sec-three{
 	background-image: url("../images/testimonial_bg.jpg");
-	width:800px;
-	height:300px;
+	width:1200px;
+	height:400px;
 }
 blockquote{
 	font-weight:200;
@@ -70,7 +69,6 @@ span{
 .end{
 	text-align:center;
 }
-
 ul{
 	list-style: disc outside;
 }
@@ -81,14 +79,18 @@ span{
 	color:white;
 }
 .sec-four{
-	width:800px;
-	height:100px;
+	width:1200px;
+	height:120px;
 }
 .sec-five{
 	background-color: black;
-	width:800px;
-	height:300px;
+	width:1200px;
+	height:350px;
 }
 .bottom{
 	color:yellow;
+}
+img{
+	display:block;
+
 }
