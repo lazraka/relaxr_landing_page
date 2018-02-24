@@ -3,23 +3,32 @@ body{
 }
 .sec-one{
 	background-image: url("../images/header_bg.jpg");
-	width:800px;
+	width:760px;
 	height:500px;
-}
-.logo{
-	font-weight:800;
-	font-size:48px;
+	padding-left:40px;
+	padding-top: 3px;
 }
 h2{
 	font-weight:600;
 	font-size:48px;
 	text-align: center;
 }
+.logo{
+	font-weight:800;
+	font-size:48px;
+}
 .link{
 	font-weight:800;
 	font-size:28px;
 	background-color:yellow;
-	margin:30%;
+	height:7%;
+}
+a{
+	border:solid black 5px;
+	display:block;
+	width:30%;
+	text-align: center;
+	padding:3px;
 }
 .sec-two{
 	width:800px;
@@ -49,13 +58,14 @@ blockquote{
 	font-size:36px;
 	font-style: italic;
 	text-align: center;
-	width:40%;
-	margin:20%;
+	width:60%;
+	margin:30%;
 }
 span{
 	font-weight:600;
 	font-size:36px;	
 	text-align: center;
+	margin:30%;
 }
 .end{
 	text-align:center;
