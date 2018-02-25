@@ -24,7 +24,7 @@ h2{
 	font-size:28px;
 	background-color:yellow;
 	border:solid yellow 5px;
-	margin-left: 300px;
+	margin-left: 350px;
 	margin-top: 90px;
 	width:255px;
 	height:40px;
@@ -64,46 +64,47 @@ p{
 .sec-three{
 	background-image: url("../images/testimonial_bg.jpg");
 	width:1200px;
-	height:320px;
+	height:315px;
 	padding-top:80px;
+	display:block;
 }
 blockquote{
 	font-weight:200;
 	font-size:36px;
 	font-style: italic;
 	text-align: center;
-	width:60%;
+	width: 575px;
+	margin-left: 310px;
 }
 span{
 	font-weight:600;
 	font-size:36px;	
-	text-align: center;
+	margin-left: 460px;
+	margin-top:25px;
 }
 .end{
 	text-align:center;
-}
-
-span{
-	margin:45%;
 }
 .white{
 	color:white;
 }
 .sec-four{
 	width:1200px;
-	height:120px;
+	height:90px;
 	background-color: yellow;
+	padding-top:30px;
 }
 .link-bottom{
-	display:block;
-	border:solid black 5px;
+	border:solid #25333f 5px;
 	margin-left: 445px;
-	margin-top: 30px;
-	background: blue;
+	background: #25333f;
 	font-weight:800;
 	font-size:28px;
-	height:60px;
+	height:40px;
 	width:300px;
+	text-align: center;
+	padding-top:10px;
+	display:block;
 }
 .sec-five{
 	background-color: black;
@@ -115,5 +116,4 @@ span{
 }
 img{
 	display:block;
-
 }
