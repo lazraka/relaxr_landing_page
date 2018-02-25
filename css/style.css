@@ -109,11 +109,25 @@ span{
 .sec-five{
 	background-color: black;
 	width:1200px;
-	height:350px;
+	height:300px;
+	padding-top:50px;
 }
 .bottom{
 	color:yellow;
-}
-img{
+	margin-left: 520px;
+	margin-bottom: 60px;
 	display:block;
+}
+.twitter{
+	margin-left: 540px;
+	margin-bottom: 60px;
+}
+.facebook{
+	margin-left: 50px;
+	display:inline-block;
+	margin-bottom: 60px;
+}
+.end{
+	font-weight:600;
+	font-size:18px;
 }
